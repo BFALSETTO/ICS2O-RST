@@ -1,7 +1,7 @@
 -----------------------------------------------------------------------------------------
 --
 -- main.lua
--- Created by: Jack Wright
+-- Created by: Jack Wright and Benjamin Falsetto
 -- Date: November 16, 2017
 -- Description: This calls the splash screen of the app to load itself.
 -----------------------------------------------------------------------------------------
